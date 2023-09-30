@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188208152951",
+    "project_id": "datat-fetch",
+    "storage_bucket": "datat-fetch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188208152951:android:af67821a0c0e2bdf05a172",
+        "android_client_info": {
+          "package_name": "com.example.fetchdata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF_ekCgL1GBs2qVe3YTgI2JsXMSfP1i20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
